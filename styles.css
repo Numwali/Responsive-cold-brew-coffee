@@ -81,3 +81,7 @@ navlist a:hover{
  display: none;
 
 }
+
+section {
+ padding:0 14%;
+}
